@@ -1,3 +1,4 @@
-# dsci-100-practice_project
+# DSCI 100 Github Tutorial
 Author: Bryan, Joyal
+
 Hello World!
